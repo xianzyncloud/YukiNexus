@@ -1,0 +1,14 @@
+{
+  "botName": "YukiNexus - MD",
+  "ownerName": "AlvinTakashiix",
+  "creator": [
+    "6289502564687"
+  ],
+  "prefix": [".", "#", "!", "/"],
+  "botMode": "self",
+  "accessDenied": {
+    "owner": "Fitur ini khusus Owner.",
+    "creator": "Fitur ini khusus Creator.",
+    "premium": "Fitur ini khusus Premium."
+  }
+}
